@@ -1,3 +1,3 @@
-<h1><code>Python Turtle</code></h1>
+<h1><code><em>Python Turtle</em></code></h1>
 
 Python Turtle Graphics
