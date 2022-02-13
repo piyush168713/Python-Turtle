@@ -16,8 +16,7 @@ for i in range (200):
             for m in range (739):
                 t.forward(m*4)
                 t.right(89)
-
-                               
+                              
                 
                 
                 
